@@ -17,7 +17,7 @@
     <li><a href="#preprocessing">Preprocessing</a></li>
     <li><a href="#methodology">Methodology</a></li>
     <li><a href="#conclusion-recommendation">Conclusion and Recommendation</a></li>
-    <li><a href="#conclusion-recommendation">Contributor</a></li>
+    <li><a href="#contributor">Contributor</a></li>
   </ol>
 </details>
 

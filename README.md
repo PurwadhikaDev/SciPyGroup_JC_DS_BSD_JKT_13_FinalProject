@@ -8,7 +8,7 @@
       <a href="#project-description">Project Description</a>
     </li>
     <li>
-      <a href="#business-problem">Business Problem</a>
+      <a href="#bussiness-problem">Business Problem</a>
     </li>
     <li>
       <a href="#data-understanding">Data Understanding</a>
@@ -16,7 +16,7 @@
     <li><a href="#eda">EDA</a></li>
     <li><a href="#preprocessing">Preprocessing</a></li>
     <li><a href="#methodology">Methodology</a></li>
-    <li><a href="#conclusion-recommendation">Conclusion and Recommendation</a></li>
+    <li><a href="#conclusion--recommendation">Conclusion and Recommendation</a></li>
     <li><a href="#contributor">Contributor</a></li>
   </ol>
 </details>
@@ -34,7 +34,7 @@ dan MAE Score sebagai scoring matrix. Interpretasi model dilakukan dengan menggu
 * [Hyperopt](http://hyperopt.github.io/hyperopt/)
 
 
-<!-- business problem -->
+<!-- bussiness problem -->
 ## Bussiness Problem
 
 * **Problem Statement**: Bagaimana cara untuk memprediksi kisaran harga jual mobil bekas sehingga harganya sesuai dengan harga jual yang ada pada pasaran?
@@ -104,7 +104,7 @@ Pada tahap ini akan dilakukan pembuatan dan melakukan optimasi model machine lea
 
 
 <!-- conclusion recommendation -->
-## Conclusion & Recommendation
+## Conclusion and Recommendation
 
 Pada tahap ini akan menjelaskan kesimpulan project serta rekomendasi berdasarkan model machine learning yang sudah dibuat.
 
